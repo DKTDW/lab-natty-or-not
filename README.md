@@ -20,19 +20,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+Possível visita alienigena pelos olhos de uma Inteligência Artificial 
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Nesse projeto utilizei de um tema que sempre me chamou a atenção, que é sobre vida fora na Terra, e de como uma IA descreveria visualmente um evento desse
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei o Canva para criar um vídeo gerado por IA (https://www.canva.com)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Solicitei que a IA criasse um video com os seguintes parametros "Uma nave alienigena cobrindo totalmente o céu, sendo vista de uma cidade"
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://github.com/DKTDW/lab-natty-or-not/assets/148050438/c544659f-0cc7-4982-8226-af8bfb7b1af4
+https://github.com/DKTDW/lab-natty-or-not/assets/148050438/9abbf5a2-cac8-4708-9bf3-a4e665aed068
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
