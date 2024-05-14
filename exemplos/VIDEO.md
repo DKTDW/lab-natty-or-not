@@ -1,18 +1,20 @@
 # Vídeo: Um Minuto no Futuro das IAs Generativas 🎥
 
 ## 📒 Descrição
-Este vídeo de 1 minuto apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
+Estes vídeos de menos de 10 segundos cada apresenta uma visão rápida e envolvente do potencial e da aplicação das IAs Generativas na vida cotidiana.
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[Canva](https://www.canva.com)** para a criação do vídeo;
 - 
 ## 🧐 Processo de Criação
-Usei o "ChatGPT" para escrever e revisar o roteiro do vídeo. O "D-ID" foi essencial para criar um avatar virtual e voz sintetizada, trazendo uma dimensão futurística ao vídeo. A montagem e edição foram realizadas no Adobe Premiere para garantir qualidade profissional.
+Solicitei que a IA criasse um video com os seguintes parametros "Uma nave alienigena cobrindo totalmente o céu, sendo vista de uma cidade" em um dos vídeos.
+No outro passei basicamente os mesmos parãmetros, porém adicionei que a nave teria a aparência semelhante a um olho humano.
 
 ## 🚀 Resultados
-O vídeo é uma cápsula do tempo que leva o espectador a uma jornada rápida pelo mundo das IAs Generativas, destacando seu potencial transformador.
+Apesar de o resultado ter ficado bastante simples, eu gostei bastante! A primeira com os parâmetros que eu passei acabou ficando extremamente parecido com a imagem que eu havia em mente
 
-[LINK PARA O VÍDEO AQUI]()
+https://github.com/DKTDW/lab-natty-or-not/assets/148050438/634d1884-17f2-47db-9966-870fb58e84a6
+https://github.com/DKTDW/lab-natty-or-not/assets/148050438/b50ebf43-9ade-48e9-8e92-79ac67bb9d41
 
 ## 💭 Reflexão
-Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAs Generativas para criar uma narrativa poderosa e cativante.
+Explorar o potencial das Inteligências Artificiais Generativas neste projeto foi uma jornada fascinante na arte de contar histórias visuais. Ao empregar essas poderosas ferramentas, fomos capazes de conceber uma narrativa envolvente e memorável, onde cada imagem, cada cena, ganhava vida de forma única e cativante. Desde o processo de concepção até a materialização final, testemunhamos o poder da criatividade algorítmica em tecer uma trama visual que intrigou e emocionou. Esta experiência desafiou nossas concepções sobre a criação artística e demonstrou o potencial revolucionário das IAs na expressão criativa.
